@@ -1,0 +1,23 @@
+{
+    "name": "emohamed/carbon-config-loader",
+    "license": "MIT",
+
+    "minimum-stability": "dev",
+    
+    "authors": [
+        {
+            "name": "Emil Mohamed",
+            "email": "emil@2c-studio.com"
+        }
+    ],
+
+    "require": {
+    	"php": "^5.3.0 || ^7.0"
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "CarbonForms\\": "CarbonForms"
+        }
+    }
+}

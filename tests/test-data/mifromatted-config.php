@@ -1,0 +1,4 @@
+<?php
+[
+	'whatever' => 'test',
+];
